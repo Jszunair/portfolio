@@ -1,43 +1,55 @@
 # Personal Portfolio
-This is my first attempt to create a personal portfolio website to place some of my projects, using basic front-end technologies.
 
-Check [here](https://pennylioliou.netlify.app/)
+Welcome to my personal portfolio repository! This is a showcase of my skills, projects, and accomplishments as a web developer.
 
-## Overview
+## Table of Contents
 
-![2022-04-18 17-02-14 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/88145246/163820952-46a0b86b-74ac-4a5e-9510-4e502a9e013d.gif)
+- [About Me](#about-me)
+- [Technologies Used](#technologies-used)
+- [Projects](#projects)
+- [Contact](#contact)
 
-## Features
-* Responsive
-* Modern Design
-* Clean Animations
-* Easy to use
+## About Me
 
-## Languages and Tools
-* HTML5
-* CSS3
-* JS
+Hello, I'm **Zunair**. I'm a passionate **Web Developer** with expertise in front-end technologies like HTML, CSS, and JavaScript. I'm currently exploring new technologies and learning continuously to improve my skills. This portfolio will give you an overview of my skills, past work, and projects.
 
-## For the Future
-&#8594; Add Vertical Timeline to put Summary, Skills, Education and Experience
+## Technologies Used
 
-## The MIT License
-Copyright © 2021 Penny Lioliou
+Here are some of the main technologies and tools I work with:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+- **HTML** - For structuring web pages.
+- **CSS** - For styling and layout design.
+- **JavaScript** - For interactive and dynamic content.
+- **Git** - For version control.
+- **GitHub** - For hosting repositories.
+- **Responsive Design** - Making sure websites work on all devices.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## Projects
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Below are some of the projects I've worked on:
 
-## References
-* [project-3.jpg](https://www.istockphoto.com/photo/cloud-computing-emerging-from-computer-servers-technology-innovation-gm539475910-96201179)
-* [project-4.jpg](https://www.istockphoto.com/photo/macro-shot-with-augmented-reality-ethernet-cables-connected-to-router-ports-with-gm1219430161-356699621)
-* [project-5.jpg](https://13.127.97.79/course/compiler-design-online-videos)
+1. **Project 1: Movie and Tv Shows Search Website**  
+   A responsive movie and shows search website using fetch API
 
+2. **Project 2: Shopping List App**  
+   A simple web app to manage shopping lists. Users can add, edit, and delete items from their shopping list.
 
- If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you!
+3. **Project 3: Dice Game**  
+   A fun game where users can roll dice and generate random numbers.
 
-![myportfolio](https://user-images.githubusercontent.com/88145246/218483901-cbf811a0-9c92-4443-9c5f-31712a07ed80.jpg)
+4. **Project 4: Calculator**  
+   A simple JavaScript calculator to perform basic mathematical operations.
+
+You can explore these projects and others in this repository.
+
+## Contact
+
+Feel free to reach out to me for any questions, collaborations, or opportunities.
+
+- **Email:** [your-email@example.com](mailto:jszunair@gmail.com)
+- **GitHub:** [https://github.com/Jszunair](https://github.com/Jszunair)
+
+Thank you for visiting my portfolio!
+
 
 
