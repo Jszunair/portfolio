@@ -4,7 +4,7 @@ const navbarOffsetTop = navbar.offsetTop;
 const sections = document.querySelectorAll("section");
 const navbarLinks = document.querySelectorAll(".navbar-link");
 const progress = document.querySelector(".progress-bars-wrapper");
-const progressBarPercents = [97, 90, 72, 80, 48];
+const progressBarPercents = [95, 90, 72, 80, 70, 75, 80];
 
 window.addEventListener("scroll", () => {
   mainFn();
@@ -45,8 +45,10 @@ window.addEventListener("resize", () => {
 /* Typing and Deleting Effect */
 // List of sentences
 var _CONTENT = [ 
-	"WEB DEVELOPER", 
-	"FRONT-END DEVELOPER"
+	"WORDPRESS DEVELOPER", 
+	"PHP DEVELOPER",
+	"FRONT-END DEVELOPER",
+	"WEB DEVELOPER"
 	
 ];
 
